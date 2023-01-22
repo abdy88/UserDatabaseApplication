@@ -9,3 +9,4 @@ This Application allows us to do the following operations:
 
 along with validation for DOB and phone number.
 and application throws an error when we try to create a user with user id which already exists.
+Database used is mysql.
